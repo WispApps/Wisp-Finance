@@ -1,0 +1,33 @@
+# Generated from com.wisp.finance.yml.example by
+# tools/update-fdroid-signing-metadata.ps1 after the release certificate is
+# chosen. Do not submit this file until the placeholder is replaced.
+Categories:
+  - Money
+License: GPL-3.0-or-later
+AuthorName: WispApps
+WebSite: https://gitlab.com/wispapps/wisp-finance
+SourceCode: https://gitlab.com/wispapps/wisp-finance
+IssueTracker: https://gitlab.com/wispapps/wisp-finance/-/issues
+AutoName: Wisp Finance
+Summary: Private-first personal finance tracker
+Description: |-
+    Wisp Finance is a private-first personal finance app for tracking expenses,
+    budgets, subscriptions, savings goals, loans, debts, mortgages, investments,
+    crypto assets and tax records.
+RepoType: git
+Repo: https://gitlab.com/wispapps/wisp-finance.git
+Binaries: https://gitlab.com/wispapps/wisp-finance/-/releases/v%v/downloads/wisp-finance-release-signed.apk
+AllowedAPKSigningKeys:
+  - f9ed1c303c9bdcd73439520497080f6c2236070edc93a22ba462773d5a1fc542
+Builds:
+  - versionName: 1.0
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - release
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+UpdateCheckData: 'app/build.gradle.kts|versionCode\s*=\s*(\d+)|.|versionName\s*=\s*"([^"]+)"'
+CurrentVersion: 1.0
+CurrentVersionCode: 1

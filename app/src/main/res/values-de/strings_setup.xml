@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_step">Schritt %1$d von %2$d</string>
+    <string name="setup_continue_currency">Mit %1$s fortfahren</string>
+    <string name="setup_notifications_description">Erhalte Erinnerungen an Zahlungen, Budgets und Sparziele. Wähle in den Einstellungen, welche Benachrichtigungen du erhalten möchtest.</string>
+    <string name="setup_verify_title">Bestätige deine Phrase</string>
+    <string name="setup_phrase_subtitle">Deine Wiederherstellungsphrase bleibt immer auf Englisch, unabhängig von der App-Sprache.</string>
+    <string name="setup_demo_phrase">Nur eine Vorschau. Diese Beispielwörter können keine Daten wiederherstellen. Schlüssel und Einstellungen bleiben unverändert.</string>
+    <string name="setup_keep_private">Halte deine Phrase geheim</string>
+    <string name="setup_retry">Erneut versuchen</string>
+    <string name="setup_back_phrase">Zurück zur Phrase</string>
+    <string name="setup_preview_label">Vorschau</string>
+    <string name="setup_preview_title">Einrichtung ansehen</string>
+    <string name="setup_preview_description">Sieh dir die Begrüßungsseiten an, ohne Daten oder Einstellungen zu ändern.</string>
+</resources>

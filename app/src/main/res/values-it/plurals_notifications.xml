@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_goal_due">
+        <item quantity="one">%1$s: manca %2$d giorno alla scadenza.</item>
+        <item quantity="many">%1$s: mancano %2$d giorni alla scadenza.</item>
+        <item quantity="other">%1$s: mancano %2$d giorni alla scadenza.</item>
+    </plurals>
+</resources>

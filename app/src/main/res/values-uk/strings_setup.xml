@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_step">Крок %1$d із %2$d</string>
+    <string name="setup_continue_currency">Продовжити з %1$s</string>
+    <string name="setup_notifications_description">Отримуйте нагадування про платежі, бюджети та цілі заощаджень. Виберіть потрібні сповіщення в налаштуваннях.</string>
+    <string name="setup_verify_title">Підтвердьте фразу</string>
+    <string name="setup_phrase_subtitle">Фраза відновлення завжди залишається англійською, незалежно від мови застосунку.</string>
+    <string name="setup_demo_phrase">Це демонстрація. Приклад слів не підходить для відновлення даних. Ключ і налаштування не зміняться.</string>
+    <string name="setup_keep_private">Зберігайте фразу в таємниці</string>
+    <string name="setup_retry">Спробувати ще раз</string>
+    <string name="setup_back_phrase">Повернутися до фрази</string>
+    <string name="setup_preview_label">Попередній перегляд</string>
+    <string name="setup_preview_title">Переглянути початкові екрани</string>
+    <string name="setup_preview_description">Перегляд вітальних екранів без зміни даних і налаштувань.</string>
+</resources>

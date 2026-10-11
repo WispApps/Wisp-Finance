@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">Le copie cifrate includono tutti i dati finanziari e i pagamenti. Per ripristinare su un altro dispositivo servono il file e la sua frase di recupero.</string>
+    <string name="sec_backup_title">Backup cifrati</string>
+    <string name="sec_cloud_conflict">Sono state trovate modifiche in conflitto. Nessuna sovrascrittura silenziosa. Esporta entrambi i dispositivi in file, risolvi i dati in conflitto e riprova.</string>
+    <string name="sec_cloud_failed">Connessione non riuscita. Controlla URL WebDAV HTTPS, password applicativa, frase e rete.</string>
+    <string name="sec_cloud_http">Nextcloud ha restituito HTTP %1$d. Controlla credenziali, permessi e disponibilità del server.</string>
+    <string name="sec_cloud_intro">Collega il tuo Nextcloud personale con URL WebDAV dalle impostazioni File e una password applicativa separata. Vengono caricati solo dati cifrati.</string>
+    <string name="sec_cloud_manual">La sincronizzazione parte dal pulsante. Le versioni cifrate rimangono in WispFinance; nessuna sincronizzazione in background.</string>
+    <string name="sec_cloud_password">Password applicativa</string>
+    <string name="sec_cloud_phrase">Frase della copia cloud esistente (facoltativa)</string>
+    <string name="sec_cloud_phrase_hint">Lascia vuoto per mantenere la chiave cloud salvata o usare quella del dispositivo per una nuova connessione. Per una copia esistente inserisci la sua frase e conservala: decifra i file Nextcloud.</string>
+    <string name="sec_cloud_success">Sincronizzazione completata.</string>
+    <string name="sec_cloud_url">URL WebDAV HTTPS</string>
+    <string name="sec_cloud_user">Nome utente</string>
+    <string name="sec_confirm_phrase">Ripeti la frase visualizzata</string>
+    <string name="sec_continue">Continua</string>
+    <string name="sec_disconnect">Disconnetti</string>
+    <string name="sec_disconnected">Disconnesso. I file sul server sono stati conservati.</string>
+    <string name="sec_done">Completato. Record elaborati: %1$d.</string>
+    <string name="sec_enter_phrase">Frase di recupero di questo file</string>
+    <string name="sec_export_safety">Esporta copia precedente al ripristino</string>
+    <string name="sec_failed">Impossibile completare. Controlla file, spazio disponibile e permessi.</string>
+    <string name="sec_format">24 coppie di parole inglesi unite da un trattino e separate da spazi. Mantieni il loro ordine. Formato Wisp Finance, non un seed di portafoglio. La frase resta sempre in inglese cambiando lingua.</string>
+    <string name="sec_generate">Crea una nuova frase</string>
+    <string name="sec_have_phrase">Ho già una frase</string>
+    <string name="sec_legacy">Importa una vecchia copia non cifrata</string>
+    <string name="sec_legacy_warning">I vecchi file non sono cifrati. Importarli non protegge le copie condivise in precedenza.</string>
+    <string name="sec_nextcloud">Sincronizzazione Nextcloud</string>
+    <string name="sec_phrase_error">Frase non valida o diversa. Controlla tutte le 24 coppie di parole e il loro ordine.</string>
+    <string name="sec_restore_warning">Il ripristino sostituisce i dati attuali dopo averne salvato una copia cifrata. Le nuove esportazioni usano ancora la frase delle impostazioni, anche se questo file ne usa una diversa. Le vecchie copie richiedono la frase originale.</string>
+    <string name="sec_saved">Ho salvato la frase separatamente dal file di backup.</string>
+    <string name="sec_scope">La cifratura end-to-end protegge esportazioni e Nextcloud. Il database di lavoro rimane nello spazio protetto Android e non è cifrato con questa frase.</string>
+    <string name="sec_show_phrase">Mostra frase di recupero</string>
+    <string name="sec_sync">Sincronizza ora</string>
+    <string name="sec_title">Salva la frase di recupero</string>
+    <string name="sec_warning">Conserva la frase offline e in segreto. Chi possiede frase e file può leggere i dati. Senza la frase il file cifrato non è recuperabile. I dati esistenti restano su questo dispositivo.</string>
+    <string name="sec_wrong_key">Frase errata o file cifrato danneggiato. Nessun dato ripristinato.</string>
+    <string name="sec_resolve_title">Risolvi i conflitti</string>
+    <string name="sec_resolve_body">Scegli i valori per i record in conflitto. Le altre modifiche vengono unite. Le copie cifrate di entrambe le versioni restano sul server. Annulla per controllare o esportare prima i dati.</string>
+    <string name="sec_keep_local">Usa i valori di questo dispositivo</string>
+    <string name="sec_keep_cloud">Usa i valori del cloud</string>
+</resources>

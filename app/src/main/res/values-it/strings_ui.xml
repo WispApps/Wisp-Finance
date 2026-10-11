@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_more_actions">Altre azioni</string>
+    <string name="ui_delete_title">Eliminare questo elemento?</string>
+    <string name="ui_delete_body">Questa azione non può essere annullata.</string>
+    <string name="ui_category_shopping">Acquisti</string>
+    <string name="ui_category_pets">Animali domestici</string>
+    <string name="ui_previous_month">Mese precedente</string>
+    <string name="ui_next_month">Mese successivo</string>
+</resources>

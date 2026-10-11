@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_more_actions">Інші дії</string>
+    <string name="ui_delete_title">Видалити запис?</string>
+    <string name="ui_delete_body">Цю дію неможливо скасувати.</string>
+    <string name="ui_category_shopping">Покупки</string>
+    <string name="ui_category_pets">Домашні тварини</string>
+    <string name="ui_previous_month">Попередній місяць</string>
+    <string name="ui_next_month">Наступний місяць</string>
+</resources>

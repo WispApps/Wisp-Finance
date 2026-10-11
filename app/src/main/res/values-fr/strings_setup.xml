@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_step">Étape %1$d sur %2$d</string>
+    <string name="setup_continue_currency">Continuer avec %1$s</string>
+    <string name="setup_notifications_description">Recevez des rappels pour vos paiements, budgets et objectifs d’épargne. Choisissez les notifications souhaitées dans les paramètres.</string>
+    <string name="setup_verify_title">Confirmez votre phrase</string>
+    <string name="setup_phrase_subtitle">Votre phrase de récupération reste toujours en anglais, quelle que soit la langue de l’application.</string>
+    <string name="setup_demo_phrase">Aperçu uniquement. Ces mots d’exemple ne permettent pas de restaurer des données. La clé et les paramètres resteront inchangés.</string>
+    <string name="setup_keep_private">Gardez votre phrase secrète</string>
+    <string name="setup_retry">Réessayer</string>
+    <string name="setup_back_phrase">Revenir à la phrase</string>
+    <string name="setup_preview_label">Aperçu</string>
+    <string name="setup_preview_title">Voir la configuration initiale</string>
+    <string name="setup_preview_description">Découvrez les écrans d’accueil sans modifier vos données ni vos paramètres.</string>
+</resources>

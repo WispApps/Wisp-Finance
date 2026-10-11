@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">Les copies chiffrées contiennent toutes les données financières et les paiements. Pour restaurer sur un autre appareil, conservez le fichier et sa phrase de récupération.</string>
+    <string name="sec_backup_title">Sauvegardes chiffrées</string>
+    <string name="sec_cloud_conflict">Des modifications sont en conflit. Aucun écrasement silencieux. Exportez les deux appareils dans des fichiers, résolvez les entrées concernées et réessayez.</string>
+    <string name="sec_cloud_failed">Connexion impossible. Vérifiez les identifiants WebDAV HTTPS, le mot de passe applicatif, la phrase et le réseau.</string>
+    <string name="sec_cloud_http">Nextcloud a renvoyé HTTP %1$d. Vérifiez les identifiants, les droits et la disponibilité du serveur.</string>
+    <string name="sec_cloud_intro">Connectez votre Nextcloud personnel avec son URL WebDAV, disponible dans les paramètres des fichiers, et un mot de passe applicatif distinct. Seules des données chiffrées sont envoyées.</string>
+    <string name="sec_cloud_manual">La synchronisation démarre avec le bouton. Les versions chiffrées sont conservées dans WispFinance ; aucune synchronisation en arrière-plan.</string>
+    <string name="sec_cloud_password">Mot de passe applicatif</string>
+    <string name="sec_cloud_phrase">Phrase de la copie cloud existante (facultatif)</string>
+    <string name="sec_cloud_phrase_hint">Laissez vide pour conserver la clé cloud enregistrée ou utiliser celle de cet appareil pour une nouvelle connexion. Pour une copie existante, saisissez sa phrase et conservez-la : elle déchiffre les fichiers Nextcloud.</string>
+    <string name="sec_cloud_success">Synchronisation terminée.</string>
+    <string name="sec_cloud_url">URL WebDAV HTTPS</string>
+    <string name="sec_cloud_user">Identifiant</string>
+    <string name="sec_confirm_phrase">Saisissez à nouveau la phrase affichée</string>
+    <string name="sec_continue">Continuer</string>
+    <string name="sec_disconnect">Déconnecter</string>
+    <string name="sec_disconnected">Déconnecté. Les fichiers du serveur sont conservés.</string>
+    <string name="sec_done">Terminé. Entrées traitées : %1$d.</string>
+    <string name="sec_enter_phrase">Phrase de récupération de ce fichier</string>
+    <string name="sec_export_safety">Exporter la copie avant restauration</string>
+    <string name="sec_failed">Impossible de terminer. Vérifiez le fichier, les droits et la place disponible.</string>
+    <string name="sec_format">24 paires de mots anglais reliés par un trait et séparées par des espaces. Conservez leur ordre. Format Wisp Finance, pas une phrase de portefeuille. La phrase reste toujours en anglais après un changement de langue.</string>
+    <string name="sec_generate">Créer une nouvelle phrase</string>
+    <string name="sec_have_phrase">Je possède déjà une phrase</string>
+    <string name="sec_legacy">Importer une ancienne copie non chiffrée</string>
+    <string name="sec_legacy_warning">Les anciens fichiers ne sont pas chiffrés. Leur importation ne protège pas les copies déjà partagées.</string>
+    <string name="sec_nextcloud">Synchronisation Nextcloud</string>
+    <string name="sec_phrase_error">Phrase invalide ou différente. Vérifiez les 24 paires de mots et leur ordre.</string>
+    <string name="sec_restore_warning">La restauration remplace les données actuelles après création de leur copie chiffrée. Les prochains exports gardent la phrase des paramètres, même si ce fichier utilise une autre phrase. Les anciennes copies nécessitent leur phrase initiale.</string>
+    <string name="sec_saved">Je conserve la phrase séparément du fichier de sauvegarde.</string>
+    <string name="sec_scope">Le chiffrement de bout en bout protège les exports et Nextcloud. La base de travail reste dans le stockage protégé Android et ne se chiffre pas avec cette phrase.</string>
+    <string name="sec_show_phrase">Afficher la phrase de récupération</string>
+    <string name="sec_sync">Synchroniser</string>
+    <string name="sec_title">Conservez votre phrase de récupération</string>
+    <string name="sec_warning">Gardez cette phrase hors ligne et secrète. Quiconque possède la phrase et le fichier peut lire les données. Sans la phrase, le fichier chiffré est irrécupérable. Les données existantes restent sur cet appareil.</string>
+    <string name="sec_wrong_key">Phrase incorrecte ou fichier chiffré endommagé. Aucune donnée restaurée.</string>
+    <string name="sec_resolve_title">Résoudre les conflits</string>
+    <string name="sec_resolve_body">Choisissez les valeurs des entrées en conflit. Les autres changements sont fusionnés. Des copies chiffrées des deux versions restent sur le serveur. Annulez pour vérifier ou exporter les données.</string>
+    <string name="sec_keep_local">Utiliser les valeurs de cet appareil</string>
+    <string name="sec_keep_cloud">Utiliser les valeurs du cloud</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">Encrypted copies include all financial records and payments. To restore on another device, keep both the file and its recovery phrase.</string>
+    <string name="sec_backup_title">Encrypted backups</string>
+    <string name="sec_cloud_conflict">Conflicting changes were found. Nothing was silently overwritten. Export both devices as files before resolving the conflicting records, then retry.</string>
+    <string name="sec_cloud_failed">Connection failed. Check the HTTPS WebDAV URL, app password, recovery phrase and network.</string>
+    <string name="sec_cloud_http">Nextcloud returned HTTP %1$d. Check credentials, permissions and server availability.</string>
+    <string name="sec_cloud_intro">Connect your personal Nextcloud using the WebDAV URL from Files settings and a separate app password. Only encrypted data is uploaded.</string>
+    <string name="sec_cloud_manual">Sync runs when you press the button. Encrypted history files are retained in WispFinance; no background sync is enabled.</string>
+    <string name="sec_cloud_password">App password</string>
+    <string name="sec_cloud_phrase">Existing cloud recovery phrase (optional)</string>
+    <string name="sec_cloud_phrase_hint">Leave blank to keep the saved cloud key, or use this device’s key for a new connection. If connecting to an existing copy, enter its phrase. Keep that phrase: it decrypts Nextcloud files.</string>
+    <string name="sec_cloud_success">Synchronization completed.</string>
+    <string name="sec_cloud_url">HTTPS WebDAV URL</string>
+    <string name="sec_cloud_user">Username</string>
+    <string name="sec_confirm_phrase">Re-enter the displayed phrase</string>
+    <string name="sec_continue">Continue</string>
+    <string name="sec_disconnect">Disconnect</string>
+    <string name="sec_disconnected">Disconnected. Server files were kept.</string>
+    <string name="sec_done">Completed. Records processed: %1$d.</string>
+    <string name="sec_enter_phrase">Recovery phrase for this file</string>
+    <string name="sec_export_safety">Export pre-restore copy</string>
+    <string name="sec_failed">The operation could not be completed. Check the file, free space and access permissions.</string>
+    <string name="sec_format">24 English hyphenated word pairs, separated by spaces. Keep their order. Wisp Finance format, not a wallet seed. This phrase always stays in English when you change the app language.</string>
+    <string name="sec_generate">Create a new phrase</string>
+    <string name="sec_have_phrase">I already have a phrase</string>
+    <string name="sec_legacy">Import an old unencrypted copy</string>
+    <string name="sec_legacy_warning">Old files are not encrypted. Importing them cannot protect copies that were previously shared.</string>
+    <string name="sec_nextcloud">Nextcloud synchronization</string>
+    <string name="sec_phrase_error">The phrase is invalid or does not match. Check all 24 word pairs and their order.</string>
+    <string name="sec_restore_warning">Restoring replaces current records. An encrypted pre-restore copy is saved first. Future exports keep using the phrase currently shown in Settings, even if this file uses a different phrase. Old copies keep their original phrase.</string>
+    <string name="sec_saved">I saved the phrase separately from the backup file.</string>
+    <string name="sec_scope">End-to-end encryption protects exported files and Nextcloud data. The working database on this phone remains in Android’s protected app storage; it is not encrypted with this phrase.</string>
+    <string name="sec_show_phrase">Show recovery phrase</string>
+    <string name="sec_sync">Synchronize now</string>
+    <string name="sec_title">Save your recovery phrase</string>
+    <string name="sec_warning">Keep this phrase offline and private. Anyone with it and the file can read your data. Without the phrase, the encrypted file cannot be recovered. Existing records stay on this device.</string>
+    <string name="sec_wrong_key">Incorrect phrase or damaged encrypted file. No data was restored.</string>
+    <string name="sec_resolve_title">Resolve conflicting records</string>
+    <string name="sec_resolve_body">Choose which values to use for conflicting records. Other changes are merged. Encrypted copies of both versions are kept on the server. Cancel to inspect or export your data first.</string>
+    <string name="sec_keep_local">Use this device’s values</string>
+    <string name="sec_keep_cloud">Use cloud values</string>
+</resources>

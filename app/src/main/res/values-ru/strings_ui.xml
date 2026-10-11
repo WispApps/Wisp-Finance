@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_more_actions">Другие действия</string>
+    <string name="ui_delete_title">Удалить запись?</string>
+    <string name="ui_delete_body">Это действие нельзя отменить.</string>
+    <string name="ui_category_shopping">Покупки</string>
+    <string name="ui_category_pets">Питомцы</string>
+    <string name="ui_previous_month">Предыдущий месяц</string>
+    <string name="ui_next_month">Следующий месяц</string>
+</resources>

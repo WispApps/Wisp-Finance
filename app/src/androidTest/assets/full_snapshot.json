@@ -1,0 +1,178 @@
+{
+  "format": "wisp-finance-snapshot",
+  "version": 2,
+  "primaryCurrency": "PLN",
+  "categories": [
+    {
+      "id": "categories-1",
+      "systemKey": null,
+      "customName": "Тест €",
+      "iconKey": "Тест € iconKey",
+      "colorArgb": 123,
+      "archived": false,
+      "sortOrder": 123
+    }
+  ],
+  "recurringExpenses": [
+    {
+      "id": "recurringExpenses-1",
+      "amountMinorUnits": 123,
+      "currency": "PLN",
+      "categoryId": "categories-1",
+      "title": "Тест € title",
+      "note": "Тест € note",
+      "merchant": "Тест € merchant",
+      "paymentMethod": "CASH",
+      "recurrenceInterval": 1,
+      "recurrenceUnit": "DAY",
+      "nextOccurrence": "2026-10-04",
+      "kind": "REGULAR",
+      "enabled": false,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "purchases": [
+    {
+      "id": "purchases-1",
+      "amountMinorUnits": 9223372036854775800,
+      "currency": "PLN",
+      "categoryId": "categories-1",
+      "title": "Тест € title",
+      "note": "Тест € note",
+      "merchant": "Тест € merchant",
+      "paymentMethod": "CASH",
+      "occurredAt": "2026-10-04T08:00:00Z",
+      "type": "EXPENSE",
+      "recurringExpenseId": null,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "budgets-1",
+      "categoryId": "categories-1",
+      "amountMinorUnits": 123,
+      "currency": "PLN",
+      "period": "DAILY",
+      "enabled": false
+    }
+  ],
+  "savingsGoals": [
+    {
+      "id": "savingsGoals-1",
+      "title": "Тест € title",
+      "targetMinorUnits": 123,
+      "currency": "PLN",
+      "savedMinorUnits": 123,
+      "deadline": null,
+      "completed": false,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "loans": [
+    {
+      "id": "loans-1",
+      "title": "Тест € title",
+      "principalMinorUnits": 123,
+      "remainingMinorUnits": 123,
+      "currency": "PLN",
+      "annualInterestRate": 3.5,
+      "termMonths": 123,
+      "startDate": "2026-10-04",
+      "nextPaymentDate": null,
+      "monthlyPaymentMinorUnits": null,
+      "note": "Тест € note",
+      "closed": false,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "loanPayments": [
+    {
+      "id": "loanPayments-1",
+      "loanId": "loans-1",
+      "amountMinorUnits": 123,
+      "paidAt": "2026-10-04",
+      "note": "Тест € note",
+      "createdAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "personalDebts": [
+    {
+      "id": "personalDebts-1",
+      "personName": "Тест € personName",
+      "direction": "I_OWE",
+      "originalMinorUnits": 123,
+      "remainingMinorUnits": 123,
+      "currency": "PLN",
+      "dueDate": null,
+      "annualInterestRate": 3.5,
+      "interestStartDate": null,
+      "note": "Тест € note",
+      "closed": false,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "personalDebtPayments": [
+    {
+      "id": "personalDebtPayments-1",
+      "debtId": "personalDebts-1",
+      "amountMinorUnits": 123,
+      "paidAt": "2026-10-04",
+      "note": "Тест € note",
+      "createdAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "mortgages": [
+    {
+      "id": "mortgages-1",
+      "title": "Тест € title",
+      "propertyPriceMinorUnits": 123,
+      "downPaymentMinorUnits": 123,
+      "principalMinorUnits": 123,
+      "currency": "PLN",
+      "annualInterestRate": 3.5,
+      "termMonths": 123,
+      "startDate": "2026-10-04",
+      "monthlyPaymentMinorUnits": 123,
+      "note": "Тест € note",
+      "active": false,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "assetHoldings": [
+    {
+      "id": "assetHoldings-1",
+      "kind": "INVESTMENT",
+      "name": "Тест € name",
+      "symbol": "Тест € symbol",
+      "quantity": 3.5,
+      "averageCostMinorUnits": 123,
+      "currentPriceMinorUnits": 123,
+      "currency": "PLN",
+      "note": "Тест € note",
+      "archived": false,
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ],
+  "taxEntries": [
+    {
+      "id": "taxEntries-1",
+      "type": "INCOME",
+      "title": "Тест € title",
+      "amountMinorUnits": 123,
+      "currency": "PLN",
+      "taxYear": 123,
+      "occurredOn": "2026-10-04",
+      "note": "Тест € note",
+      "createdAt": "2026-10-04T08:00:00Z",
+      "updatedAt": "2026-10-04T08:00:00Z"
+    }
+  ]
+}

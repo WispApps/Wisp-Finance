@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Copier la phrase de récupération</string>
+    <string name="setup_phrase_copied">Phrase copiée</string>
+    <string name="setup_phrase_copy_failed">Impossible de copier la phrase. Veuillez réessayer.</string>
+    <string name="setup_copy_warning">D’autres applications peuvent avoir accès au presse-papiers. Conservez la phrase en lieu sûr, puis supprimez-la du presse-papiers.</string>
+</resources>

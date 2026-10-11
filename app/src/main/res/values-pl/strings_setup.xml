@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_step">Krok %1$d z %2$d</string>
+    <string name="setup_continue_currency">Kontynuuj z %1$s</string>
+    <string name="setup_notifications_description">Otrzymuj przypomnienia o płatnościach, budżetach i celach oszczędnościowych. W ustawieniach wybierz powiadomienia, które chcesz otrzymywać.</string>
+    <string name="setup_verify_title">Potwierdź swoją frazę</string>
+    <string name="setup_phrase_subtitle">Fraza odzyskiwania zawsze pozostaje w języku angielskim, niezależnie od języka aplikacji.</string>
+    <string name="setup_demo_phrase">To tylko podgląd. Te przykładowe słowa nie umożliwiają odzyskania danych. Klucz i ustawienia nie zostaną zmienione.</string>
+    <string name="setup_keep_private">Zachowaj frazę w tajemnicy</string>
+    <string name="setup_retry">Spróbuj ponownie</string>
+    <string name="setup_back_phrase">Wróć do frazy</string>
+    <string name="setup_preview_label">Podgląd</string>
+    <string name="setup_preview_title">Zobacz konfigurację początkową</string>
+    <string name="setup_preview_description">Przeglądaj ekrany powitalne bez zmiany danych i ustawień.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_more_actions">Meer acties</string>
+    <string name="ui_delete_title">Dit item verwijderen?</string>
+    <string name="ui_delete_body">Deze actie kan niet ongedaan worden gemaakt.</string>
+    <string name="ui_category_shopping">Winkelen</string>
+    <string name="ui_category_pets">Huisdieren</string>
+    <string name="ui_previous_month">Vorige maand</string>
+    <string name="ui_next_month">Volgende maand</string>
+</resources>

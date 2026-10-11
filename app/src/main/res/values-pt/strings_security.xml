@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">As cópias cifradas incluem todos os registos financeiros e pagamentos. Para restaurar noutro dispositivo, precisa do ficheiro e da sua frase de recuperação.</string>
+    <string name="sec_backup_title">Cópias cifradas</string>
+    <string name="sec_cloud_conflict">Foram encontradas alterações em conflito. Nada foi substituído silenciosamente. Exporte ambos os dispositivos para ficheiros, resolva os registos em conflito e tente novamente.</string>
+    <string name="sec_cloud_failed">Falha na ligação. Verifique o URL WebDAV HTTPS, a palavra-passe de aplicação, a frase e a rede.</string>
+    <string name="sec_cloud_http">O Nextcloud devolveu HTTP %1$d. Verifique credenciais, permissões e disponibilidade do servidor.</string>
+    <string name="sec_cloud_intro">Ligue o seu Nextcloud pessoal com o URL WebDAV das definições de Ficheiros e uma palavra-passe de aplicação separada. Só são enviados dados cifrados.</string>
+    <string name="sec_cloud_manual">A sincronização começa pelo botão. As versões cifradas são guardadas em WispFinance; não há sincronização em segundo plano.</string>
+    <string name="sec_cloud_password">Palavra-passe de aplicação</string>
+    <string name="sec_cloud_phrase">Frase da cópia existente na nuvem (opcional)</string>
+    <string name="sec_cloud_phrase_hint">Deixe vazio para manter a chave guardada ou usar a deste dispositivo numa nova ligação. Para uma cópia existente, introduza a sua frase e guarde-a: decifra os ficheiros Nextcloud.</string>
+    <string name="sec_cloud_success">Sincronização concluída.</string>
+    <string name="sec_cloud_url">URL WebDAV HTTPS</string>
+    <string name="sec_cloud_user">Nome de utilizador</string>
+    <string name="sec_confirm_phrase">Repita a frase apresentada</string>
+    <string name="sec_continue">Continuar</string>
+    <string name="sec_disconnect">Desligar</string>
+    <string name="sec_disconnected">Desligado. Os ficheiros do servidor foram mantidos.</string>
+    <string name="sec_done">Concluído. Registos processados: %1$d.</string>
+    <string name="sec_enter_phrase">Frase de recuperação deste ficheiro</string>
+    <string name="sec_export_safety">Exportar cópia anterior ao restauro</string>
+    <string name="sec_failed">Não foi possível concluir. Verifique o ficheiro, o espaço livre e as permissões.</string>
+    <string name="sec_format">24 pares de palavras em inglês unidos por hífen e separados por espaços. Mantenha a ordem. Formato Wisp Finance, não uma seed de carteira. A frase permanece sempre em inglês ao mudar o idioma.</string>
+    <string name="sec_generate">Criar nova frase</string>
+    <string name="sec_have_phrase">Já tenho uma frase</string>
+    <string name="sec_legacy">Importar cópia antiga sem cifra</string>
+    <string name="sec_legacy_warning">Os ficheiros antigos não estão cifrados. A importação não protege cópias partilhadas anteriormente.</string>
+    <string name="sec_nextcloud">Sincronização Nextcloud</string>
+    <string name="sec_phrase_error">Frase inválida ou diferente. Verifique os 24 pares de palavras e a sua ordem.</string>
+    <string name="sec_restore_warning">O restauro substitui os registos atuais depois de guardar uma cópia cifrada. As novas exportações continuam a usar a frase das definições, mesmo que este ficheiro use outra. As cópias antigas precisam da frase original.</string>
+    <string name="sec_saved">Guardei a frase separadamente do ficheiro de cópia.</string>
+    <string name="sec_scope">A cifra ponta a ponta protege exportações e Nextcloud. A base de trabalho permanece no armazenamento protegido da aplicação Android e não é cifrada com esta frase.</string>
+    <string name="sec_show_phrase">Mostrar frase de recuperação</string>
+    <string name="sec_sync">Sincronizar agora</string>
+    <string name="sec_title">Guarde a frase de recuperação</string>
+    <string name="sec_warning">Guarde a frase offline e em segredo. Quem tiver a frase e o ficheiro pode ler os dados. Sem a frase, o ficheiro cifrado não pode ser recuperado. Os registos existentes permanecem neste dispositivo.</string>
+    <string name="sec_wrong_key">Frase incorreta ou ficheiro cifrado danificado. Não foram restaurados dados.</string>
+    <string name="sec_resolve_title">Resolver conflitos</string>
+    <string name="sec_resolve_body">Escolha os valores dos registos em conflito. As outras alterações são combinadas. As cópias cifradas de ambas as versões ficam no servidor. Cancele para verificar ou exportar primeiro os dados.</string>
+    <string name="sec_keep_local">Usar valores deste dispositivo</string>
+    <string name="sec_keep_cloud">Usar valores da nuvem</string>
+</resources>

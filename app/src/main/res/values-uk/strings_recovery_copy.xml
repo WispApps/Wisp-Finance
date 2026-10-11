@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Скопіювати фразу</string>
+    <string name="setup_phrase_copied">Фразу скопійовано</string>
+    <string name="setup_phrase_copy_failed">Не вдалося скопіювати фразу. Спробуйте ще раз.</string>
+    <string name="setup_copy_warning">Буфер обміну може бути доступний іншим застосункам. Збережіть фразу в безпечному місці, а потім видаліть її з буфера обміну.</string>
+</resources>

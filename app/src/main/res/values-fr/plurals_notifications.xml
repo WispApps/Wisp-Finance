@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_goal_due">
+        <item quantity="one">%1$s : il reste %2$d jour avant l’échéance.</item>
+        <item quantity="many">%1$s : il reste %2$d jours avant l’échéance.</item>
+        <item quantity="other">%1$s : il reste %2$d jours avant l’échéance.</item>
+    </plurals>
+</resources>

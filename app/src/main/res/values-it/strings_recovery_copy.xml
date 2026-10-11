@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Copia la frase di recupero</string>
+    <string name="setup_phrase_copied">Frase copiata</string>
+    <string name="setup_phrase_copy_failed">Impossibile copiare la frase. Riprova.</string>
+    <string name="setup_copy_warning">Altre app potrebbero accedere agli appunti. Conserva la frase in un luogo sicuro, poi eliminala dagli appunti.</string>
+</resources>

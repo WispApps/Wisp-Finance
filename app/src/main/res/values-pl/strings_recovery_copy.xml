@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Kopiuj frazę odzyskiwania</string>
+    <string name="setup_phrase_copied">Fraza skopiowana</string>
+    <string name="setup_phrase_copy_failed">Nie udało się skopiować frazy. Spróbuj ponownie.</string>
+    <string name="setup_copy_warning">Inne aplikacje mogą mieć dostęp do schowka. Zapisz frazę w bezpiecznym miejscu, a następnie usuń ją ze schowka.</string>
+</resources>

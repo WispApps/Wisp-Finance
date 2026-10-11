@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_goal_due">
+        <item quantity="one">%1$s: noch %2$d Tag bis zum Zieldatum.</item>
+        <item quantity="other">%1$s: noch %2$d Tage bis zum Zieldatum.</item>
+    </plurals>
+</resources>

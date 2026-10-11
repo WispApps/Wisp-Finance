@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_goal_due">
+        <item quantity="one">%1$s: nog %2$d dag tot de deadline.</item>
+        <item quantity="other">%1$s: nog %2$d dagen tot de deadline.</item>
+    </plurals>
+</resources>

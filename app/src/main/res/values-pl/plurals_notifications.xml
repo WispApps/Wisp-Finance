@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_goal_due">
+        <item quantity="one">%1$s: do terminu pozostał %2$d dzień.</item>
+        <item quantity="few">%1$s: do terminu pozostały %2$d dni.</item>
+        <item quantity="many">%1$s: do terminu pozostało %2$d dni.</item>
+        <item quantity="other">%1$s: do terminu pozostało %2$d dnia.</item>
+    </plurals>
+</resources>

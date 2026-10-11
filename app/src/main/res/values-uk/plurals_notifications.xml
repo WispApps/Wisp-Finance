@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_goal_due">
+        <item quantity="one">%1$s: до кінцевої дати залишився %2$d день.</item>
+        <item quantity="few">%1$s: до кінцевої дати залишилося %2$d дні.</item>
+        <item quantity="many">%1$s: до кінцевої дати залишилося %2$d днів.</item>
+        <item quantity="other">%1$s: до кінцевої дати залишилося %2$d дня.</item>
+    </plurals>
+</resources>

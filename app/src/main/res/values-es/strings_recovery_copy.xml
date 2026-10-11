@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Copiar frase de recuperación</string>
+    <string name="setup_phrase_copied">Frase copiada</string>
+    <string name="setup_phrase_copy_failed">No se pudo copiar la frase. Inténtalo de nuevo.</string>
+    <string name="setup_copy_warning">Otras aplicaciones podrían acceder al portapapeles. Guarda la frase en un lugar seguro y después elimínala del portapapeles.</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">Verschlüsselte Kopien enthalten alle Finanzdaten und Zahlungen. Für die Wiederherstellung auf einem anderen Gerät werden die Datei und ihre Wiederherstellungsphrase benötigt.</string>
+    <string name="sec_backup_title">Verschlüsselte Sicherungen</string>
+    <string name="sec_cloud_conflict">Widersprüchliche Änderungen gefunden. Es wurde nichts stillschweigend überschrieben. Exportiere beide Geräte in Dateien, kläre die betroffenen Einträge und versuche es erneut.</string>
+    <string name="sec_cloud_failed">Verbindung fehlgeschlagen. Prüfe HTTPS-WebDAV-Adresse, App-Passwort, Wiederherstellungsphrase und Netzwerk.</string>
+    <string name="sec_cloud_http">Nextcloud meldet HTTP %1$d. Prüfe Zugangsdaten, Berechtigungen und Serververfügbarkeit.</string>
+    <string name="sec_cloud_intro">Verbinde dein eigenes Nextcloud mit der WebDAV-Adresse aus den Datei-Einstellungen und einem separaten App-Passwort. Es werden nur verschlüsselte Daten hochgeladen.</string>
+    <string name="sec_cloud_manual">Die Synchronisierung startet per Schaltfläche. Verschlüsselte Versionen bleiben in WispFinance erhalten; keine Hintergrundsynchronisierung.</string>
+    <string name="sec_cloud_password">App-Passwort</string>
+    <string name="sec_cloud_phrase">Phrase der vorhandenen Cloud-Kopie (optional)</string>
+    <string name="sec_cloud_phrase_hint">Leer lassen, um den gespeicherten Cloud-Schlüssel beizubehalten oder bei einer neuen Verbindung den Geräteschlüssel zu verwenden. Für eine vorhandene Kopie ihre Phrase eingeben und aufbewahren: Sie entschlüsselt die Nextcloud-Dateien.</string>
+    <string name="sec_cloud_success">Synchronisierung abgeschlossen.</string>
+    <string name="sec_cloud_url">HTTPS-WebDAV-Adresse</string>
+    <string name="sec_cloud_user">Benutzername</string>
+    <string name="sec_confirm_phrase">Angezeigte Phrase erneut eingeben</string>
+    <string name="sec_continue">Weiter</string>
+    <string name="sec_disconnect">Trennen</string>
+    <string name="sec_disconnected">Verbindung getrennt. Serverdateien bleiben erhalten.</string>
+    <string name="sec_done">Abgeschlossen. Verarbeitete Einträge: %1$d.</string>
+    <string name="sec_enter_phrase">Wiederherstellungsphrase dieser Datei</string>
+    <string name="sec_export_safety">Kopie vor der Wiederherstellung exportieren</string>
+    <string name="sec_failed">Vorgang fehlgeschlagen. Prüfe Datei, freien Speicher und Zugriffsrechte.</string>
+    <string name="sec_format">24 englische Wortpaare mit Bindestrich, durch Leerzeichen getrennt. Reihenfolge beibehalten. Wisp-Finance-Format, kein Wallet-Seed. Die Phrase bleibt auch nach einem Sprachwechsel immer Englisch.</string>
+    <string name="sec_generate">Neue Phrase erstellen</string>
+    <string name="sec_have_phrase">Ich habe bereits eine Phrase</string>
+    <string name="sec_legacy">Alte unverschlüsselte Kopie importieren</string>
+    <string name="sec_legacy_warning">Alte Dateien sind unverschlüsselt. Ein Import schützt keine früher weitergegebenen Kopien.</string>
+    <string name="sec_nextcloud">Nextcloud-Synchronisierung</string>
+    <string name="sec_phrase_error">Ungültige oder abweichende Phrase. Prüfe alle 24 Wortpaare und ihre Reihenfolge.</string>
+    <string name="sec_restore_warning">Die Wiederherstellung ersetzt aktuelle Einträge. Zuerst wird eine verschlüsselte Kopie gesichert. Neue Exporte verwenden weiterhin die Phrase aus den Einstellungen, auch wenn diese Datei eine andere verwendet. Alte Kopien benötigen ihre ursprüngliche Phrase.</string>
+    <string name="sec_saved">Ich habe die Phrase getrennt von der Sicherungsdatei aufbewahrt.</string>
+    <string name="sec_scope">Ende-zu-Ende-Verschlüsselung schützt Exporte und Nextcloud-Daten. Die Arbeitsdatenbank bleibt im geschützten Android-App-Speicher und wird nicht mit dieser Phrase verschlüsselt.</string>
+    <string name="sec_show_phrase">Wiederherstellungsphrase anzeigen</string>
+    <string name="sec_sync">Jetzt synchronisieren</string>
+    <string name="sec_title">Wiederherstellungsphrase sichern</string>
+    <string name="sec_warning">Bewahre die Phrase offline und geheim auf. Wer Phrase und Datei besitzt, kann die Daten lesen. Ohne Phrase ist die verschlüsselte Datei nicht wiederherstellbar. Bestehende Einträge bleiben auf dem Gerät.</string>
+    <string name="sec_wrong_key">Falsche Phrase oder beschädigte verschlüsselte Datei. Es wurden keine Daten wiederhergestellt.</string>
+    <string name="sec_resolve_title">Konflikte lösen</string>
+    <string name="sec_resolve_body">Wähle die Werte für widersprüchliche Einträge. Andere Änderungen werden zusammengeführt. Verschlüsselte Kopien beider Versionen bleiben auf dem Server. Zum Prüfen oder Exportieren zuerst abbrechen.</string>
+    <string name="sec_keep_local">Werte dieses Geräts verwenden</string>
+    <string name="sec_keep_cloud">Cloud-Werte verwenden</string>
+</resources>

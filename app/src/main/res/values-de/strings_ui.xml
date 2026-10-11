@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_more_actions">Weitere Aktionen</string>
+    <string name="ui_delete_title">Eintrag löschen?</string>
+    <string name="ui_delete_body">Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="ui_category_shopping">Einkaufen</string>
+    <string name="ui_category_pets">Haustiere</string>
+    <string name="ui_previous_month">Vorheriger Monat</string>
+    <string name="ui_next_month">Nächster Monat</string>
+</resources>

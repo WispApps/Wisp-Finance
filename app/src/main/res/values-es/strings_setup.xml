@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_step">Paso %1$d de %2$d</string>
+    <string name="setup_continue_currency">Continuar con %1$s</string>
+    <string name="setup_notifications_description">Recibe recordatorios sobre pagos, presupuestos y metas de ahorro. Elige en Ajustes qué notificaciones quieres recibir.</string>
+    <string name="setup_verify_title">Confirma tu frase</string>
+    <string name="setup_phrase_subtitle">Tu frase de recuperación siempre permanece en inglés, independientemente del idioma de la aplicación.</string>
+    <string name="setup_demo_phrase">Solo es una vista previa. Estas palabras de ejemplo no permiten recuperar datos. No se cambiarán la clave ni los ajustes.</string>
+    <string name="setup_keep_private">Mantén tu frase en secreto</string>
+    <string name="setup_retry">Reintentar</string>
+    <string name="setup_back_phrase">Volver a la frase</string>
+    <string name="setup_preview_label">Vista previa</string>
+    <string name="setup_preview_title">Ver la configuración inicial</string>
+    <string name="setup_preview_description">Explora las pantallas de bienvenida sin cambiar tus datos ni ajustes.</string>
+</resources>

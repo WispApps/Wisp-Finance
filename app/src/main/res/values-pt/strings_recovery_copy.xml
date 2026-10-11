@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Copiar frase de recuperação</string>
+    <string name="setup_phrase_copied">Frase copiada</string>
+    <string name="setup_phrase_copy_failed">Não foi possível copiar a frase. Tente novamente.</string>
+    <string name="setup_copy_warning">Outras aplicações poderão aceder à área de transferência. Guarde a frase num local seguro e depois remova-a da área de transferência.</string>
+</resources>

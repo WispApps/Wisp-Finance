@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">Зашифрована копія містить усі фінансові записи та платежі. Для відновлення на іншому пристрої потрібні файл і його фраза відновлення.</string>
+    <string name="sec_backup_title">Зашифровані копії</string>
+    <string name="sec_cloud_conflict">Виявлено конфліктні зміни. Прихованого перезапису не було. Експортуйте копії з обох пристроїв, усуньте конфліктні записи та повторіть синхронізацію.</string>
+    <string name="sec_cloud_failed">Не вдалося підключитися. Перевірте HTTPS-адресу WebDAV, пароль застосунку, фразу відновлення та мережу.</string>
+    <string name="sec_cloud_http">Nextcloud повернув HTTP %1$d. Перевірте облікові дані, права та доступність сервера.</string>
+    <string name="sec_cloud_intro">Підключіть особистий Nextcloud: вкажіть адресу WebDAV із налаштувань розділу «Файли» та окремий пароль застосунку. Надсилаються лише зашифровані дані.</string>
+    <string name="sec_cloud_manual">Синхронізація запускається кнопкою. Зашифровані версії зберігаються у WispFinance; фонової синхронізації немає.</string>
+    <string name="sec_cloud_password">Пароль застосунку</string>
+    <string name="sec_cloud_phrase">Фраза наявної хмарної копії (необов’язково)</string>
+    <string name="sec_cloud_phrase_hint">Залиште поле порожнім, щоб зберегти хмарний ключ або використати ключ цього пристрою для нового підключення. Для наявної копії введіть її фразу. Збережіть її: вона розшифровує файли Nextcloud.</string>
+    <string name="sec_cloud_success">Синхронізацію завершено.</string>
+    <string name="sec_cloud_url">HTTPS-адреса WebDAV</string>
+    <string name="sec_cloud_user">Ім’я користувача</string>
+    <string name="sec_confirm_phrase">Повторіть показану фразу</string>
+    <string name="sec_continue">Продовжити</string>
+    <string name="sec_disconnect">Відключити</string>
+    <string name="sec_disconnected">Відключено. Файли на сервері збережено.</string>
+    <string name="sec_done">Готово. Оброблено записів: %1$d.</string>
+    <string name="sec_enter_phrase">Фраза відновлення цього файлу</string>
+    <string name="sec_export_safety">Експортувати копію до відновлення</string>
+    <string name="sec_failed">Не вдалося завершити операцію. Перевірте файл, вільне місце та права доступу.</string>
+    <string name="sec_format">24 пари англійських слів через дефіс, розділені пробілами. Зберігайте порядок. Це формат Wisp Finance, не сід гаманця. Після зміни мови застосунку фраза завжди залишається англійською.</string>
+    <string name="sec_generate">Створити нову фразу</string>
+    <string name="sec_have_phrase">У мене вже є фраза</string>
+    <string name="sec_legacy">Імпортувати стару незашифровану копію</string>
+    <string name="sec_legacy_warning">Старі файли не зашифровані. Імпорт не захищає копії, які були передані раніше.</string>
+    <string name="sec_nextcloud">Синхронізація Nextcloud</string>
+    <string name="sec_phrase_error">Фраза неправильна або не збігається. Перевірте всі 24 пари слів та їхній порядок.</string>
+    <string name="sec_restore_warning">Відновлення замінить поточні записи. Спочатку збережеться зашифрована копія попередніх даних. Нові експорти використовуватимуть фразу з налаштувань, навіть якщо цей файл має іншу фразу. Старим копіям потрібна початкова фраза.</string>
+    <string name="sec_saved">Я зберіг фразу окремо від файлу резервної копії.</string>
+    <string name="sec_scope">Наскрізне шифрування захищає файли експорту та дані Nextcloud. Робоча база на телефоні залишається у захищеному сховищі застосунку Android; ця фраза її не шифрує.</string>
+    <string name="sec_show_phrase">Показати фразу відновлення</string>
+    <string name="sec_sync">Синхронізувати</string>
+    <string name="sec_title">Збережіть фразу відновлення</string>
+    <string name="sec_warning">Зберігайте фразу офлайн і в таємниці. Той, хто має фразу та файл, зможе прочитати дані. Без фрази відновити зашифрований файл неможливо. Наявні записи залишаються на пристрої.</string>
+    <string name="sec_wrong_key">Неправильна фраза або пошкоджений зашифрований файл. Дані не відновлено.</string>
+    <string name="sec_resolve_title">Конфлікт записів</string>
+    <string name="sec_resolve_body">Виберіть значення для конфліктних записів. Решта змін об’єднається. Зашифровані копії обох версій залишаться на сервері. Можна скасувати та спочатку перевірити або експортувати дані.</string>
+    <string name="sec_keep_local">Взяти значення цього пристрою</string>
+    <string name="sec_keep_cloud">Взяти значення з хмари</string>
+</resources>

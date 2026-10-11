@@ -1,0 +1,63 @@
+# Android Studio and local caches
+.idea/
+.gradle/
+.kotlin/
+*.iml
+local.properties
+.DS_Store
+Thumbs.db
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated output (all modules)
+build/
+out/
+*.apk
+*.aab
+*.apks
+*.idsig
+*.hprof
+*.log
+
+# Signing material and local credentials
+signing/*
+!signing/.gitignore
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.key
+*.pem
+key.properties
+keystore.properties
+signing.properties
+.env
+.env.*
+!.env.example
+secrets.properties
+
+# Personal databases and encrypted exports
+*.wispfinance.enc
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Local archives / patch leftovers
+*.zip
+*.7z
+*.bak
+*.bak.*
+*.tmp
+*.orig
+*~
+/BUILD22-UI-README.txt
+/BUILD22-UI-SHA256SUMS.txt
+/BUILD23-E2EE-NEXTCLOUD-README.txt
+/BUILD23-SHA256SUMS.txt
+/README-FIX.txt
+/README-INSTALL.txt
+/SHA256SUMS.txt
+/install-wisp-finance-icon.ps1

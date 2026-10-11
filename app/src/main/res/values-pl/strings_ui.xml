@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_more_actions">Więcej działań</string>
+    <string name="ui_delete_title">Usunąć ten wpis?</string>
+    <string name="ui_delete_body">Tej czynności nie można cofnąć.</string>
+    <string name="ui_category_shopping">Zakupy</string>
+    <string name="ui_category_pets">Zwierzęta</string>
+    <string name="ui_previous_month">Poprzedni miesiąc</string>
+    <string name="ui_next_month">Następny miesiąc</string>
+</resources>

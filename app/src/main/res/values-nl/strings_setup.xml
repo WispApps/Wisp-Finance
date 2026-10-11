@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_step">Stap %1$d van %2$d</string>
+    <string name="setup_continue_currency">Doorgaan met %1$s</string>
+    <string name="setup_notifications_description">Ontvang herinneringen voor betalingen, budgetten en spaardoelen. Kies in de instellingen welke meldingen je wilt ontvangen.</string>
+    <string name="setup_verify_title">Bevestig je herstelzin</string>
+    <string name="setup_phrase_subtitle">Je herstelzin blijft altijd in het Engels, ongeacht de taal van de app.</string>
+    <string name="setup_demo_phrase">Alleen een voorbeeld. Met deze voorbeeldwoorden kun je geen gegevens herstellen. Je sleutel en instellingen worden niet gewijzigd.</string>
+    <string name="setup_keep_private">Houd je herstelzin geheim</string>
+    <string name="setup_retry">Opnieuw proberen</string>
+    <string name="setup_back_phrase">Terug naar herstelzin</string>
+    <string name="setup_preview_label">Voorbeeld</string>
+    <string name="setup_preview_title">Eerste instellingen bekijken</string>
+    <string name="setup_preview_description">Bekijk de welkomstschermen zonder je gegevens of instellingen te wijzigen.</string>
+</resources>

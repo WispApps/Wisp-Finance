@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sec_backup_intro">Zaszyfrowane kopie zawierają wszystkie dane finansowe i płatności. Do przywrócenia na innym urządzeniu potrzebujesz pliku i jego frazy odzyskiwania.</string>
+    <string name="sec_backup_title">Zaszyfrowane kopie</string>
+    <string name="sec_cloud_conflict">Wykryto sprzeczne zmiany. Niczego nie nadpisano bez ostrzeżenia. Wyeksportuj oba urządzenia do plików, rozwiąż konflikty wpisów i spróbuj ponownie.</string>
+    <string name="sec_cloud_failed">Połączenie nie powiodło się. Sprawdź adres WebDAV HTTPS, hasło aplikacji, frazę i sieć.</string>
+    <string name="sec_cloud_http">Nextcloud zwrócił HTTP %1$d. Sprawdź dane logowania, uprawnienia i dostępność serwera.</string>
+    <string name="sec_cloud_intro">Połącz własny Nextcloud, podając adres WebDAV z ustawień Plików i osobne hasło aplikacji. Wysyłane są tylko zaszyfrowane dane.</string>
+    <string name="sec_cloud_manual">Synchronizacja uruchamia się przyciskiem. Zaszyfrowane wersje są zachowywane w WispFinance; brak synchronizacji w tle.</string>
+    <string name="sec_cloud_password">Hasło aplikacji</string>
+    <string name="sec_cloud_phrase">Fraza istniejącej kopii w chmurze (opcjonalnie)</string>
+    <string name="sec_cloud_phrase_hint">Pozostaw puste, aby zachować zapisany klucz chmury lub użyć klucza urządzenia przy nowym połączeniu. Dla istniejącej kopii wpisz jej frazę i zachowaj ją: odszyfrowuje pliki Nextcloud.</string>
+    <string name="sec_cloud_success">Synchronizacja zakończona.</string>
+    <string name="sec_cloud_url">Adres WebDAV HTTPS</string>
+    <string name="sec_cloud_user">Nazwa użytkownika</string>
+    <string name="sec_confirm_phrase">Wpisz ponownie wyświetloną frazę</string>
+    <string name="sec_continue">Dalej</string>
+    <string name="sec_disconnect">Rozłącz</string>
+    <string name="sec_disconnected">Rozłączono. Pliki na serwerze zachowano.</string>
+    <string name="sec_done">Gotowe. Przetworzono wpisów: %1$d.</string>
+    <string name="sec_enter_phrase">Fraza odzyskiwania tego pliku</string>
+    <string name="sec_export_safety">Eksportuj kopię sprzed przywracania</string>
+    <string name="sec_failed">Nie udało się zakończyć operacji. Sprawdź plik, wolne miejsce i uprawnienia.</string>
+    <string name="sec_format">24 pary angielskich słów połączone łącznikiem i oddzielone spacjami. Zachowaj kolejność. Format Wisp Finance, nie seed portfela. Po zmianie języka aplikacji fraza zawsze pozostaje po angielsku.</string>
+    <string name="sec_generate">Utwórz nową frazę</string>
+    <string name="sec_have_phrase">Mam już frazę</string>
+    <string name="sec_legacy">Importuj starą niezaszyfrowaną kopię</string>
+    <string name="sec_legacy_warning">Stare pliki nie są zaszyfrowane. Import nie chroni wcześniej udostępnionych kopii.</string>
+    <string name="sec_nextcloud">Synchronizacja Nextcloud</string>
+    <string name="sec_phrase_error">Fraza jest nieprawidłowa lub nie pasuje. Sprawdź wszystkie 24 pary słów i ich kolejność.</string>
+    <string name="sec_restore_warning">Przywracanie zastępuje obecne wpisy po zapisaniu ich zaszyfrowanej kopii. Nowe eksporty nadal używają frazy z ustawień, nawet jeśli ten plik używa innej. Stare kopie wymagają pierwotnej frazy.</string>
+    <string name="sec_saved">Zapisałem frazę oddzielnie od pliku kopii.</string>
+    <string name="sec_scope">Szyfrowanie end-to-end chroni eksporty i Nextcloud. Baza robocza pozostaje w chronionej pamięci aplikacji Android i nie jest szyfrowana tą frazą.</string>
+    <string name="sec_show_phrase">Pokaż frazę odzyskiwania</string>
+    <string name="sec_sync">Synchronizuj teraz</string>
+    <string name="sec_title">Zapisz frazę odzyskiwania</string>
+    <string name="sec_warning">Przechowuj frazę offline i w tajemnicy. Każdy, kto ma frazę i plik, może odczytać dane. Bez frazy nie można odzyskać zaszyfrowanego pliku. Istniejące wpisy pozostają na urządzeniu.</string>
+    <string name="sec_wrong_key">Nieprawidłowa fraza lub uszkodzony zaszyfrowany plik. Nie przywrócono danych.</string>
+    <string name="sec_resolve_title">Rozwiąż konflikty</string>
+    <string name="sec_resolve_body">Wybierz wartości dla sprzecznych wpisów. Pozostałe zmiany zostaną połączone. Zaszyfrowane kopie obu wersji pozostaną na serwerze. Anuluj, aby najpierw sprawdzić lub wyeksportować dane.</string>
+    <string name="sec_keep_local">Użyj wartości tego urządzenia</string>
+    <string name="sec_keep_cloud">Użyj wartości z chmury</string>
+</resources>

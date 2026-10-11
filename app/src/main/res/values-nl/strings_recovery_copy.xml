@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_copy_phrase">Herstelzin kopiëren</string>
+    <string name="setup_phrase_copied">Herstelzin gekopieerd</string>
+    <string name="setup_phrase_copy_failed">De herstelzin kon niet worden gekopieerd. Probeer het opnieuw.</string>
+    <string name="setup_copy_warning">Andere apps hebben mogelijk toegang tot het klembord. Bewaar de herstelzin op een veilige plek en verwijder deze daarna van het klembord.</string>
+</resources>
