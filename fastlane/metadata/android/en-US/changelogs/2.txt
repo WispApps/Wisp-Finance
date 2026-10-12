@@ -1,0 +1,3 @@
+Prepare reproducible release builds for F-Droid.
+Remove environment-dependent Git metadata from APKs.
+Disable incremental Kotlin compilation for consistent build output.
