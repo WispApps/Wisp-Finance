@@ -1,0 +1,13 @@
+Wisp Finance is an open-source personal finance app for Android.
+
+Track expenses, organize categories, plan budgets, manage recurring payments and subscriptions, and follow savings goals. Keep records of loans, personal debts, investments, crypto assets and taxes, and use finance calculators and spending insights.
+
+Choose your interface language and currency independently. The interface supports English, German, Spanish, French, Italian, Dutch, Polish, Portuguese, Russian and Ukrainian.
+
+Export encrypted backups and sync through your own Nextcloud server using HTTPS WebDAV. Nextcloud is optional.
+
+Restoring an encrypted backup requires both the backup file and its matching recovery phrase. Recovery phrases are always in English and use Wisp Finance's own format, not BIP39.
+
+The working database is stored in Android's private app storage and is not encrypted with the recovery phrase. Save your backup file and recovery phrase before clearing app data or uninstalling.
+
+Wisp Finance is free software licensed under GPL-3.0-or-later.

@@ -1,0 +1,5 @@
+Initial release.
+Expense tracking, budgets, recurring payments and savings goals.
+Loan, debt, investment, crypto and tax records.
+Encrypted backups and optional Nextcloud sync.
+Ten interface languages with independent currency selection.

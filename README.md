@@ -133,3 +133,7 @@ F-Droid inclusion and reproducible build verification are pending. The presence 
 The primary source repository and issue tracker are hosted on [GitLab](https://gitlab.com/wispapps/wisp-finance).
 
 Wisp Finance is free software licensed under the [GNU General Public License, version 3 or later](LICENSE) (`GPL-3.0-or-later`). The full license text is included in this repository. Third-party dependencies remain under their respective licenses.
+
+## Artwork
+
+The app icon and promotional banners were generated using Lumo 2.0 by Proton AG. See [ARTWORK.md](ARTWORK.md) for provenance details.
