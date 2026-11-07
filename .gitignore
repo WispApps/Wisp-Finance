@@ -61,3 +61,6 @@ secrets.properties
 /README-INSTALL.txt
 /SHA256SUMS.txt
 /install-wisp-finance-icon.ps1
+.env
+zsp
+desktop.ini

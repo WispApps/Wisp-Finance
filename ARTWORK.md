@@ -6,7 +6,7 @@ According to the project maintainer, the Wisp Finance app icon and all promotion
 
 The promotional images are stored in:
 
-- docs/images/featureGraphic.png
+- docs/images/1.png
 - docs/images/2.png
 - docs/images/3.png
 - docs/images/4.png

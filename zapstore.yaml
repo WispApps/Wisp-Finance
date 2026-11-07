@@ -1,0 +1,5 @@
+repository: https://gitlab.com/wispapps/wisp-finance
+pubkey: npub1yqeegylj4fr8xf5xeax5x253zw5wadam9xsaunzc692zf2z9xc3s9s05jn
+release_source: ./app/build/outputs/apk/release/wisp-finance-release-signed.apk
+metadata_sources:
+    - fastlane
